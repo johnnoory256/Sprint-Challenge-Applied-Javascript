@@ -28,6 +28,7 @@ function Header() {
     headerEl.appendChild(dateEl);
     headerEl.appendChild(titleEl);
     headerEl.appendChild(tempEl);
+    
     return headerEl;
 }
 
